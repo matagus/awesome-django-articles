@@ -1,2 +1,2 @@
 # awesome-django-articles
-Awesome Django articles I found while mantaining django-planet.fly.dev that I'd like to share
+Awesome articles about Django I found while maintaining [django-planet.fly.dev](https://django-planet.fly.dev/?utm_source=awesome-django-articles&utm_medium=github) that I'd like to share.
