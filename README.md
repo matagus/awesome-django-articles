@@ -94,6 +94,7 @@
 
 ### Deployment
 
+ - [An Efficient Multi-Stage Build for Python Django in Docker](https://blog.ploetzli.ch/2020/efficient-multi-stage-build-django-docker/)
  - [Deploying Django Application on AWS with Terraform. Setting up Celery and SQS](https://dev.to/daiquiri_team/deploying-django-application-on-aws-with-terraform-setting-up-celery-and-sqs-38ik)
  - [Deploying a Django App to Render](https://testdriven.io/blog/django-render/)
  - [Deploying completely serverless Django with Zappa and Aurora Serverless](https://www.agiliq.com/blog/2019/01/complete-serverless-django/)
