@@ -44,76 +44,76 @@
 
 ### API Development
 
- - [Faster API development with django-dataclasses](https://medium.com/roivant-technology/faster-api-development-with-django-dataclasses-5d33c366f23c)
- - [Model validation in Django REST Framework](https://www.kye.id.au/blog/posts/django-rest-framework-model-validation)
+ - [Faster API development with django-dataclasses](https://medium.com/roivant-technology/faster-api-development-with-django-dataclasses-5d33c366f23c) by Alec Clowes
+ - [Model validation in Django REST Framework](https://www.kye.id.au/blog/posts/django-rest-framework-model-validation) by Kye Russell
 
 ### Architecture
 
- - [Against service layers in Django](https://www.b-list.org/weblog/2020/mar/16/no-service/)
- - [Clean Architecture in Django](https://medium.com/21buttons-tech/clean-architecture-in-django-d326a4ab86a9)
- - [Django for Startup Founders: A better software architecture for SaaS startups and consumer apps](https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html)
- - [More on service layers in Django](https://www.b-list.org/weblog/2020/mar/23/still-no-service/)
- - [Structuring large/complex Django projects, and using a services layer in Django projects](https://forum.djangoproject.com/t/structuring-large-complex-django-projects-and-using-a-services-layer-in-django-projects/1487/1)
- - [Thoughts on Django application architecture approaches](https://bradleykirton.com/2024/01/14/thoughts-on-django-application-architecture-approaches/)
+ - [Against service layers in Django](https://www.b-list.org/weblog/2020/mar/16/no-service/) by James Bennett
+ - [Clean Architecture in Django](https://medium.com/21buttons-tech/clean-architecture-in-django-d326a4ab86a9) by Jordi Fierro
+ - [Django for Startup Founders: A better software architecture for SaaS startups and consumer apps](https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html) by Alex Krupp
+ - [More on service layers in Django](https://www.b-list.org/weblog/2020/mar/23/still-no-service/) by James Bennett
+ - [Structuring large/complex Django projects, and using a services layer in Django projects](https://forum.djangoproject.com/t/structuring-large-complex-django-projects-and-using-a-services-layer-in-django-projects/1487/1) by Adam Johnson
+ - [Thoughts on Django application architecture approaches](https://bradleykirton.com/2024/01/14/thoughts-on-django-application-architecture-approaches/) by Bradley Kirton
 
 ### Authentication & Permissions
 
- - [Django Roles, Groups, and Permissions Introduction](https://medium.com/djangotube/django-roles-groups-and-permissions-introduction-a54d1070544)
- - [Fine Tuning Django User Permissions](https://dandavies99.github.io/posts/2021/11/django-permissions/)
+ - [Django Roles, Groups, and Permissions Introduction](https://medium.com/djangotube/django-roles-groups-and-permissions-introduction-a54d1070544) by Hemanth S P
+ - [Fine Tuning Django User Permissions](https://dandavies99.github.io/posts/2021/11/django-permissions/) by Daniel W Davies
  - [How to Serve Protected Content With Django (Without Bogging Down Your Application Server)](https://wellfire.co/learn/nginx-django-x-accel-redirects/)
- - [How to restrict access with Django Permissions](https://coderbook.com/@marcus/how-to-restrict-access-with-django-permissions/)
- - [Permissions in Django](https://testdriven.io/blog/django-permissions/)
+ - [How to restrict access with Django Permissions](https://coderbook.com/@marcus/how-to-restrict-access-with-django-permissions/) by Marcus Lind
+ - [Permissions in Django](https://testdriven.io/blog/django-permissions/) by Oluwole Majiyagbe
 
 ### Django Admin
 
- - [Customizing the Django Admin](https://testdriven.io/blog/customize-django-admin/)
- - [How to turn Django Admin into a lightweight dashboard](https://hakibenita.medium.com/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad)
+ - [Customizing the Django Admin](https://testdriven.io/blog/customize-django-admin/) by Nik Tomazic
+ - [How to turn Django Admin into a lightweight dashboard](https://hakibenita.medium.com/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad) by Haki Benita
  - [10 tips for making the Django Admin more secure](https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure) by Jeff Triplett & Lacey Williams Henschel
 
 ### Django ORM / Database
 
- - [A Django PAGNI: efficient bulk properties](https://lukeplant.me.uk/blog/posts/django-pagni-efficient-bulk-properties/)
- - [Conditional aggregation in Django 2.0](https://www.peterbe.com/plog/conditional-aggregation-in-django-2.0)
- - [Database concurrency in Django the right way](https://www.vinta.com.br/blog/database-concurrency-in-django-the-right-way)
- - [Database generated columns⁽²⁾: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
- - [Database generated columns⁽³⁾: GeoDjango & PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/)
- - [Django migrations and your database](https://www.better-simple.com/django/2023/06/03/django-migrations-and-your-database/)
- - [Integrating Django with PostgreSQL Materialized Views](https://medium.com/@abdu11a/integrating-django-with-postgresql-materialized-view-2c7c30d44a59)
- - [Storing and retrieving tree structures in relational databases using Python (Django)](https://medium.com/@spybugg/storing-and-retrieving-tree-structures-in-relational-databases-using-python-django-7480f40c24b)
+ - [A Django PAGNI: efficient bulk properties](https://lukeplant.me.uk/blog/posts/django-pagni-efficient-bulk-properties/) by Luke Plant
+ - [Conditional aggregation in Django 2.0](https://www.peterbe.com/plog/conditional-aggregation-in-django-2.0) by Peter Bengtsson
+ - [Database concurrency in Django the right way](https://www.vinta.com.br/blog/database-concurrency-in-django-the-right-way) by Vinta Software
+ - [Database generated columns⁽²⁾: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/) by Paolo Melchiorre
+ - [Database generated columns⁽³⁾: GeoDjango & PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/) by Paolo Melchiorre
+ - [Django migrations and your database](https://www.better-simple.com/django/2023/06/03/django-migrations-and-your-database/) by Tim Schilling
+ - [Integrating Django with PostgreSQL Materialized Views](https://medium.com/@abdu11a/integrating-django-with-postgresql-materialized-view-2c7c30d44a59) by Abdulla Hashim
+ - [Storing and retrieving tree structures in relational databases using Python (Django)](https://medium.com/@spybugg/storing-and-retrieving-tree-structures-in-relational-databases-using-python-django-7480f40c24b) by Deepak Singh
 
 ### Caching
 
- - [Django Caching 101: Understanding the Basics and Beyond](https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p)
+ - [Django Caching 101: Understanding the Basics and Beyond](https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p) by Pragati Verma
 
 ### Contributing
 
- - [DSF Working Groups](https://github.com/django/dsf-working-groups/blob/main/README.md)
+ - [DSF Working Groups](https://github.com/django/dsf-working-groups/blob/main/README.md) by Django Software Foundation
 
 ### Dependency Management
 
- - [Django Dependency Management with pip-compile and pip-tools](https://learndjango.com/tutorials/django-dependency-management-pip-compile-and-pip-t)
+ - [Django Dependency Management with pip-compile and pip-tools](https://learndjango.com/tutorials/django-dependency-management-pip-compile-and-pip-t) by Will Vincent
 
 ### Deployment
 
- - [An Efficient Multi-Stage Build for Python Django in Docker](https://blog.ploetzli.ch/2020/efficient-multi-stage-build-django-docker/)
- - [Deploying Django Application on AWS with Terraform. Setting up Celery and SQS](https://dev.to/daiquiri_team/deploying-django-application-on-aws-with-terraform-setting-up-celery-and-sqs-38ik)
- - [Deploying a Django App to Render](https://testdriven.io/blog/django-render/)
- - [Deploying completely serverless Django with Zappa and Aurora Serverless](https://www.agiliq.com/blog/2019/01/complete-serverless-django/)
- - [Smooth Database Changes in Blue-Green Deployments](https://fly.io/django-beats/smooth-database-changes-in-blue-green-deployments/)
- - [Stable Django deployments without downtime](https://kuttler.eu/en/post/django-deployments-without-downtime/)
+ - [An Efficient Multi-Stage Build for Python Django in Docker](https://blog.ploetzli.ch/2020/efficient-multi-stage-build-django-docker/) by Henryk Plötz
+ - [Deploying Django Application on AWS with Terraform. Setting up Celery and SQS](https://dev.to/daiquiri_team/deploying-django-application-on-aws-with-terraform-setting-up-celery-and-sqs-38ik) by Yevhen Bondar
+ - [Deploying a Django App to Render](https://testdriven.io/blog/django-render/) by Nik Tomazic
+ - [Deploying completely serverless Django with Zappa and Aurora Serverless](https://www.agiliq.com/blog/2019/01/complete-serverless-django/) by Anmol Akhilesh
+ - [Smooth Database Changes in Blue-Green Deployments](https://fly.io/django-beats/smooth-database-changes-in-blue-green-deployments/) by Mariusz Felisiak
+ - [Stable Django deployments without downtime](https://kuttler.eu/en/post/django-deployments-without-downtime/) by Nicolas Kuttler
 
 ### Encryption
 
- - [Exploring approaches to field-level encryption in Python for Django applications](https://www.piiano.com/blog/field-level-encryption-in-python-for-django-applications)
+ - [Exploring approaches to field-level encryption in Python for Django applications](https://www.piiano.com/blog/field-level-encryption-in-python-for-django-applications) by Imri Goldberg
 
 ### File Uploads
 
- - [3 steps to upload files properly with Django (and HTMX) 📁](https://www.photondesigner.com/articles/upload-files-properly-django-htmx)
+ - [3 steps to upload files properly with Django (and HTMX) 📁](https://www.photondesigner.com/articles/upload-files-properly-django-htmx) by Tom Dekan
 
 ### Frontend Integration
 
- - [Setting Up Server Side Rendering with React, Redux, and Django](https://medium.com/meural-product-development/setting-up-server-side-rendering-with-react-redux-and-django-4d6f4d2fd705)
- - [Tutorial: Django REST with React (and a sprinkle of testing)](https://www.valentinog.com/blog/drf/)
+ - [Setting Up Server Side Rendering with React, Redux, and Django](https://medium.com/meural-product-development/setting-up-server-side-rendering-with-react-redux-and-django-4d6f4d2fd705) by Alexander Richey
+ - [Tutorial: Django REST with React (and a sprinkle of testing)](https://www.valentinog.com/blog/drf/) by Valentino Gagliardi
 
 ### HTMX
 
