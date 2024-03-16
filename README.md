@@ -68,6 +68,7 @@
 
  - [Customizing the Django Admin](https://testdriven.io/blog/customize-django-admin/)
  - [How to turn Django Admin into a lightweight dashboard](https://hakibenita.medium.com/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad)
+ - [10 tips for making the Django Admin more secure](https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure) by Jeff Triplett & Lacey Williams Henschel
 
 ### Django ORM / Database
 
