@@ -117,79 +117,79 @@
 
 ### HTMX
 
- - [Add instant database search with Django and HTMX 🕵️](https://www.photondesigner.com/articles/database-search-django-htmx)
- - [Ajax-Enabled Checkbox and Select with Django and HTMX](https://jacklinke.com/ajax-enabled-checkbox-and-select-with-django-and-htmx)
- - [Django Formsets Tutorial - Build dynamic forms with Htmx](https://justdjango.com/blog/dynamic-forms-in-django-htmx)
- - [Django and HTMX](https://dev.to/kummerer94/django-and-htmx-i5c?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_170)
- - [Django, HTMX and Alpine.JS: A Match Made In Heaven](https://dev.to/nicholas_moen/what-i-learned-while-using-django-with-htmx-and-alpine-js-24jg)
- - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
- - [How to create a Django form (using HTMX) in 90 seconds 🐎](https://www.photondesigner.com/articles/submit-async-django-form-with-htmx)
- - [Rapid Prototyping with Django, htmx, and Tailwind CSS](https://testdriven.io/blog/django-htmx-tailwind/)
+ - [Add instant database search with Django and HTMX 🕵️](https://www.photondesigner.com/articles/database-search-django-htmx) by Tom Dekan
+ - [Ajax-Enabled Checkbox and Select with Django and HTMX](https://jacklinke.com/ajax-enabled-checkbox-and-select-with-django-and-htmx) by Jack Linke
+ - [Django Formsets Tutorial - Build dynamic forms with Htmx](https://justdjango.com/blog/dynamic-forms-in-django-htmx) by Matthew Freire
+ - [Django and HTMX](https://dev.to/kummerer94/django-and-htmx-i5c) by Alexander Kammerer
+ - [Django, HTMX and Alpine.JS: A Match Made In Heaven](https://dev.to/nicholas_moen/what-i-learned-while-using-django-with-htmx-and-alpine-js-24jg) by Nicholas Moen
+ - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/) by Cory Zue
+ - [How to create a Django form (using HTMX) in 90 seconds 🐎](https://www.photondesigner.com/articles/submit-async-django-form-with-htmx) by Tom Dekan
+ - [Rapid Prototyping with Django, htmx, and Tailwind CSS](https://testdriven.io/blog/django-htmx-tailwind/) by Amal Shaji
 
 ### Job Hunting
 
- - [Questions to ask a Django company](https://www.better-simple.com/career/2022/12/31/questions-to-ask-a-django-company/)
+ - [Questions to ask a Django company](https://www.better-simple.com/career/2022/12/31/questions-to-ask-a-django-company/) by Tim Schilling
 
 ### Learn by Example
 
- - [Build an NFT rarity tool with Django](https://justdjango.com/blog/nft-rarity-tool)
+ - [Build an NFT rarity tool with Django](https://justdjango.com/blog/nft-rarity-tool) by Matthew Freire
 
 ### Models
 
- - [Django models, encapsulation and data integrity](https://www.dabapps.com/insights/django-models-and-encapsulation/)
+ - [Django models, encapsulation and data integrity](https://www.dabapps.com/insights/django-models-and-encapsulation/) by Tom Christie
 
 ### Multitenancy
 
- - [Multitenancy: juggling customer data in Django](https://www.vinta.com.br/blog/multitenancy-juggling-customer-data-django)
+ - [Multitenancy: juggling customer data in Django](https://www.vinta.com.br/blog/multitenancy-juggling-customer-data-django) by Filipe Ximenes
 
 ### Performance / Scaling
 
- - [19X faster response time](https://lincolnloop.com/insights/optimizing-response-time-19x-faster/)
- - [Enhance Your Data Queries with Materialized Views in PostgreSQL and Django](https://blog.muehlemann-popp.ch/enhance-your-data-queries-with-materialized-views-in-postgresql-and-django-9e6804b4f332)
- - [How to Optimize Django ORM Queries](https://gearheart.io/blog/how-optimize-django-orm-queries/)
- - [How to avoid a count query in Django if you can](https://www.peterbe.com/plog/how-to-avoid-a-count-query-in-django-if-you-can)
- - [How to optimize PostgreSQL queries from Django using pgMustard](https://adamj.eu/tech/2022/06/21/optimize-postgresql-queries-from-django-using-pgmustard/)
- - [Solving Performance Problems in the Django ORM](https://hansonkd.medium.com/performance-problems-in-the-django-orm-1f62b3d04785)
- - [Supercharge Your Django App: 7 Sneaky Tricks to Crush Slow Database Queries](https://johnnymetz.com/posts/slow-django-database-queries/)
- - [μDjango (micro Django) 🧬](https://www.paulox.net/2023/10/26/udjango_micro_django/)
-- [Using Materialized Views to Implement Efficient Reports in Django](https://www.fusionbox.com/blog/detail/using-materialized-views-to-implement-efficient-reports-in-django/643/)
- - [Lessons from scale: Django](https://medium.com/sanket-saurav/lessons-from-scale-django-124f7b16ae0c)
- - [Tips for Building High-Quality Django Apps at Scale](https://medium.com/@DoorDash/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5)
+ - [19X faster response time](https://lincolnloop.com/insights/optimizing-response-time-19x-faster/) by Yann Malet
+ - [Enhance Your Data Queries with Materialized Views in PostgreSQL and Django](https://blog.muehlemann-popp.ch/enhance-your-data-queries-with-materialized-views-in-postgresql-and-django-9e6804b4f332) by Silvan Mühlemann
+ - [How to Optimize Django ORM Queries](https://gearheart.io/blog/how-optimize-django-orm-queries/) by Alexey Demianenko
+ - [How to avoid a count query in Django if you can](https://www.peterbe.com/plog/how-to-avoid-a-count-query-in-django-if-you-can) by Peter Bengtsson
+ - [How to optimize PostgreSQL queries from Django using pgMustard](https://adamj.eu/tech/2022/06/21/optimize-postgresql-queries-from-django-using-pgmustard/) by Adam Johnson
+ - [Solving Performance Problems in the Django ORM](https://hansonkd.medium.com/performance-problems-in-the-django-orm-1f62b3d04785) by Kyle Hanson
+ - [Supercharge Your Django App: 7 Sneaky Tricks to Crush Slow Database Queries](https://johnnymetz.com/posts/slow-django-database-queries/) by Johnny Metz
+ - [μDjango (micro Django) 🧬](https://www.paulox.net/2023/10/26/udjango_micro_django/) by Paolo Melchiorre
+- [Using Materialized Views to Implement Efficient Reports in Django](https://www.fusionbox.com/blog/detail/using-materialized-views-to-implement-efficient-reports-in-django/643/) by Gavin Wahl
+ - [Lessons from scale: Django](https://medium.com/sanket-saurav/lessons-from-scale-django-124f7b16ae0c) by Sanket Saurav
+ - [Tips for Building High-Quality Django Apps at Scale](https://medium.com/@DoorDash/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5) by DoorDash Engineering
 
 ### Profiling
 
- - [Django: How to profile and improve startup time](https://adamj.eu/tech/2023/03/02/django-profile-and-improve-import-time/)
+ - [Django: How to profile and improve startup time](https://adamj.eu/tech/2023/03/02/django-profile-and-improve-import-time/) by Adam Johnson
 
 ### Serverless
 
- - [Django Views as Serverless Functions on Fly Machines](https://fly.io/django-beats/django-views-as-serverless-functions-on-fly-machines/)
+ - [Django Views as Serverless Functions on Fly Machines](https://fly.io/django-beats/django-views-as-serverless-functions-on-fly-machines/) by Kátia Nakamura
 
 ### Settings
 
- - [Django Settings In the Cloud](https://engineering.instawork.com/django-settings-in-the-cloud-aa3fc547a2b4)
- - [Making Sense Of Settings](https://www.mattlayman.com/understand-django/settings/)
+ - [Django Settings In the Cloud](https://engineering.instawork.com/django-settings-in-the-cloud-aa3fc547a2b4) by Oleg Pesok
+ - [Making Sense Of Settings](https://www.mattlayman.com/understand-django/settings/) by Matt Layman
 
 ### Signals
 
- - [Common Pitfalls Using Django Signals](https://engineering.instawork.com/common-pitfalls-using-django-signals-7b0654d843b)
+ - [Common Pitfalls Using Django Signals](https://engineering.instawork.com/common-pitfalls-using-django-signals-7b0654d843b) by Oleg Pesok
 
 ### Testing
 
- - [Blazing fast tests in Django](https://dizballanze.com/django-blazing-fast-tests/)
- - [Django Test Fixture: setUp, setUpClass and setUpTestData](https://medium.com/an-engineer-a-reader-a-guy/django-test-fixture-setup-setupclass-and-setuptestdata-72b6d944cdef)
- - [Django: Parametrized tests for all model admin classes](https://adamj.eu/tech/2023/03/17/django-parameterized-tests-model-admin-classes/)
- - [Simplified Django Tests With Pytest and Pytest FactoryBoy](https://schegel.net/posts/simplied-django-tests-with-pytest-and-pytest-factoryboy/)
- - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/)
+ - [Blazing fast tests in Django](https://dizballanze.com/django-blazing-fast-tests/) by Yuri Shikanov
+ - [Django Test Fixture: setUp, setUpClass and setUpTestData](https://medium.com/an-engineer-a-reader-a-guy/django-test-fixture-setup-setupclass-and-setuptestdata-72b6d944cdef) by Nhat Cuong / Nathan
+ - [Django: Parametrized tests for all model admin classes](https://adamj.eu/tech/2023/03/17/django-parameterized-tests-model-admin-classes/) by Adam Johnson
+ - [Simplified Django Tests With Pytest and Pytest FactoryBoy](https://schegel.net/posts/simplied-django-tests-with-pytest-and-pytest-factoryboy/) by Rocio Aramberri
+ - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/) by Luke Plant
 
 ### Time Zones
 
- - [Time Zones in Pytz & Django](http://tommikaikkonen.github.io/timezones/)
+ - [Time Zones in Pytz & Django](http://tommikaikkonen.github.io/timezones/) by Tommi Kaikkonen
 
 ### Views
 
- - [Django Views — The Right Way](https://spookylukey.github.io/django-views-the-right-way/)
+ - [Django Views — The Right Way](https://spookylukey.github.io/django-views-the-right-way/) by Luke Plant
 
 ### Websockets
 
- - [A minimal Websockets setup with Django in production](https://www.untangled.dev/2020/08/02/django-websockets-minimal-setup/)
- - [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
+ - [A minimal Websockets setup with Django in production](https://www.untangled.dev/2020/08/02/django-websockets-minimal-setup/) by J.V. Zammit
+ - [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django) by Jacob Kaplan-Moss

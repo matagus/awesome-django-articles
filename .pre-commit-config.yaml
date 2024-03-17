@@ -17,4 +17,5 @@ repos:
     hooks:
       - id: codespell
         args:
+          - "-L linke"
           - "--write-changes"
