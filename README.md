@@ -22,6 +22,7 @@
  - [HTMX](#htmx)
  - [Job Hunting](#job-hunting)
  - [Learn by Example](#learn-by-example)
+ - [Logging](#logging)
  - [Models](#models)
  - [Multitenancy](#multitenancy)
  - [Performance / Scaling](#performance--scaling)
@@ -133,6 +134,10 @@
 ### Learn by Example
 
  - [Build an NFT rarity tool with Django](https://justdjango.com/blog/nft-rarity-tool) by Matthew Freire
+
+### Logging
+
+ - [Structlog with Django is Awesome!](https://loop0.sh/posts/structlog-with-django-is-awesome/) by Bruno Ribeiro
 
 ### Models
 
