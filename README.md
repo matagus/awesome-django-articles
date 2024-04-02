@@ -81,6 +81,8 @@
  - [Django migrations and your database](https://www.better-simple.com/django/2023/06/03/django-migrations-and-your-database/) by Tim Schilling
  - [Integrating Django with PostgreSQL Materialized Views](https://medium.com/@abdu11a/integrating-django-with-postgresql-materialized-view-2c7c30d44a59) by Abdulla Hashim
  - [Storing and retrieving tree structures in relational databases using Python (Django)](https://medium.com/@spybugg/storing-and-retrieving-tree-structures-in-relational-databases-using-python-django-7480f40c24b) by Deepak Singh
+ - [The Fast Way to Test Django transaction.on_commit() Callbacks](https://adamj.eu/tech/2020/05/20/the-fast-way-to-test-django-transaction-on-commit-callbacks/) by Adam Johnson
+ - [Transaction Types in Django Tests](https://jeancochrane.com/blog/django-test-transactions) by Jean Cochrane
 
 ### Caching
 
