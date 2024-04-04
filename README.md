@@ -21,12 +21,13 @@
  - [Frontend Integration](#frontend-integration)
  - [HTMX](#htmx)
  - [Job Hunting](#job-hunting)
- - [Learn by Example](#learn-by-example)
+ - [Learning Django](#learning-django)
  - [Logging](#logging)
  - [Models](#models)
  - [Multitenancy](#multitenancy)
  - [Performance / Scaling](#performance--scaling)
  - [Profiling](#profiling)
+ - [Request / Response](#request--response)
  - [Serverless](#serverless)
  - [Settings](#settings)
  - [Signals](#signals)
@@ -70,6 +71,7 @@
  - [Customizing the Django Admin](https://testdriven.io/blog/customize-django-admin/) by Nik Tomazic
  - [How to turn Django Admin into a lightweight dashboard](https://hakibenita.medium.com/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad) by Haki Benita
  - [10 tips for making the Django Admin more secure](https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure) by Jeff Triplett & Lacey Williams Henschel
+ - [Why is the Django Admin “Ugly”?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/) by Vince Salvino
 
 ### Django ORM / Database
 
@@ -133,8 +135,9 @@
 
  - [Questions to ask a Django company](https://www.better-simple.com/career/2022/12/31/questions-to-ask-a-django-company/) by Tim Schilling
 
-### Learn by Example
+### Learning Django
 
+ - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask) by Bite Code!
  - [Build an NFT rarity tool with Django](https://justdjango.com/blog/nft-rarity-tool) by Matthew Freire
 
 ### Logging
@@ -166,6 +169,11 @@
 ### Profiling
 
  - [Django: How to profile and improve startup time](https://adamj.eu/tech/2023/03/02/django-profile-and-improve-import-time/) by Adam Johnson
+
+### Request / Response
+
+ - [Django Streaming HTTP Responses](https://blog.pecar.me/django-streaming-responses) by Anže Pečar
+ - [How Does Django's StreamingHttpResponse Work, Exactly?](https://andrewbrookins.com/django/how-does-djangos-streaminghttpresponse-work-exactly/) by Andrew Brookins
 
 ### Serverless
 
