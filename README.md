@@ -31,6 +31,7 @@
  - [Serverless](#serverless)
  - [Settings](#settings)
  - [Signals](#signals)
+ - [Single-File Django Projects](#single-file-django-projects)
  - [Testing](#testing)
  - [Time Zones](#time-zones)
  - [Views](#views)
@@ -187,6 +188,11 @@
 ### Signals
 
  - [Common Pitfalls Using Django Signals](https://engineering.instawork.com/common-pitfalls-using-django-signals-7b0654d843b) by Oleg Pesok
+
+### Single-File Django Projects
+
+ - [Django from first principles](https://www.mostlypython.com/django-from-first-principles/) by Eric Matthes
+ - [μDjango (micro Django) 🧬](https://www.paulox.net/2023/10/26/udjango_micro_django/) by Paolo Melchiorre
 
 ### Testing
 
