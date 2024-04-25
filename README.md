@@ -214,3 +214,17 @@
 
  - [A minimal Websockets setup with Django in production](https://www.untangled.dev/2020/08/02/django-websockets-minimal-setup/) by J.V. Zammit
  - [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django) by Jacob Kaplan-Moss
+
+ ----
+
+### Sources
+
+This awesome list is built thanks to:
+
+ - [Django News Newsletter](https://django-news.com/?utm_source=awesome-django-articles)
+ - [Python Weekly Newsletter](https://www.pythonweekly.com/?utm_source=awesome-django-articles)
+ - [My Github Feed!](https://github.com)
+ - [Lobste.rs](https://lobste.rs/?utm_source=awesome-django-articles)
+ - Several RSS feeds I'm subscribed to.
+ - Friends / team mates at work.
+ - [The internet (?)](https://duckduckgo.com/?va=g&t=ha&q=django&ia=web)
