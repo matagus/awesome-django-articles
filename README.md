@@ -119,6 +119,7 @@
 
 ### Frontend Integration
 
+ - [Django Tailwind: How to configure Django and TailwindCSS from scratch in a new project](https://learndjango.com/tutorials/django-tailwind) by Learn Django
  - [Setting Up Server Side Rendering with React, Redux, and Django](https://medium.com/meural-product-development/setting-up-server-side-rendering-with-react-redux-and-django-4d6f4d2fd705) by Alexander Richey
  - [Tutorial: Django REST with React (and a sprinkle of testing)](https://www.valentinog.com/blog/drf/) by Valentino Gagliardi
 
