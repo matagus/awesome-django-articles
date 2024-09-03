@@ -57,6 +57,7 @@
  - [Django for Startup Founders: A better software architecture for SaaS startups and consumer apps](https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html) by Alex Krupp
  - [More on service layers in Django](https://www.b-list.org/weblog/2020/mar/23/still-no-service/) by James Bennett
  - [Structuring large/complex Django projects, and using a services layer in Django projects](https://forum.djangoproject.com/t/structuring-large-complex-django-projects-and-using-a-services-layer-in-django-projects/1487/1) by Adam Johnson
+ - [The Single Folder Django Project Layout](https://noumenal.es/notes/django/single-folder-layout/) by Carlton Gibson
  - [Thoughts on Django application architecture approaches](https://bradleykirton.com/2024/01/14/thoughts-on-django-application-architecture-approaches/) by Bradley Kirton
 
 ### Authentication & Permissions
