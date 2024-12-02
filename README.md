@@ -88,6 +88,7 @@
  - [Storing and retrieving tree structures in relational databases using Python (Django)](https://medium.com/@spybugg/storing-and-retrieving-tree-structures-in-relational-databases-using-python-django-7480f40c24b) by Deepak Singh
  - [The Fast Way to Test Django transaction.on_commit() Callbacks](https://adamj.eu/tech/2020/05/20/the-fast-way-to-test-django-transaction-on-commit-callbacks/) by Adam Johnson
  - [Transaction Types in Django Tests](https://jeancochrane.com/blog/django-test-transactions) by Jean Cochrane
+ - [Squashing Django Migrations the Easy Way](https://jacklinke.com/squashing-django-migrations-the-easy-way) by Jack Linke
 
 ### Caching
 
@@ -169,6 +170,7 @@
 - [Using Materialized Views to Implement Efficient Reports in Django](https://www.fusionbox.com/blog/detail/using-materialized-views-to-implement-efficient-reports-in-django/643/) by Gavin Wahl
  - [Lessons from scale: Django](https://medium.com/sanket-saurav/lessons-from-scale-django-124f7b16ae0c) by Sanket Saurav
  - [Tips for Building High-Quality Django Apps at Scale](https://medium.com/@DoorDash/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5) by DoorDash Engineering
+ - [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/) by Andrew
 
 ### Profiling
 
