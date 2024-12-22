@@ -10,6 +10,7 @@
  - [API Development](#api-development)
  - [Architecture](#architecture)
  - [Authentication & Permissions](#authentication--permissions)
+ - [Background Tasks](#background-tasks)
  - [Caching](#caching)
  - [Contributing](#contributing)
  - [Dependency Management](#dependency-management)
@@ -67,6 +68,10 @@
  - [How to Serve Protected Content With Django (Without Bogging Down Your Application Server)](https://wellfire.co/learn/nginx-django-x-accel-redirects/)
  - [How to restrict access with Django Permissions](https://coderbook.com/@marcus/how-to-restrict-access-with-django-permissions/) by Marcus Lind
  - [Permissions in Django](https://testdriven.io/blog/django-permissions/) by Oluwole Majiyagbe
+
+### Background Tasks
+
+ - [A Deep Dive into Celery Task Resilience, Beyond Basic Retries](https://blog.gitguardian.com/celery-tasks-retries-errors/) by Mathias Millet
 
 ### Django Admin
 
@@ -135,6 +140,7 @@
  - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/) by Cory Zue
  - [How to create a Django form (using HTMX) in 90 seconds 🐎](https://www.photondesigner.com/articles/submit-async-django-form-with-htmx) by Tom Dekan
  - [Rapid Prototyping with Django, htmx, and Tailwind CSS](https://testdriven.io/blog/django-htmx-tailwind/) by Amal Shaji
+ - [How to show a modal in Django + HTMX](https://joshkaramuth.com/blog/django-htmx-modal/) by Josh Karamuth
 
 ### Job Hunting
 
