@@ -13,6 +13,7 @@
  - [Background Tasks](#background-tasks)
  - [Caching](#caching)
  - [Contributing](#contributing)
+ - [Debugging](#debugging)
  - [Dependency Management](#dependency-management)
  - [Deployment](#deployment)
  - [Django Admin](#django-admin)
@@ -94,6 +95,7 @@
  - [The Fast Way to Test Django transaction.on_commit() Callbacks](https://adamj.eu/tech/2020/05/20/the-fast-way-to-test-django-transaction-on-commit-callbacks/) by Adam Johnson
  - [Transaction Types in Django Tests](https://jeancochrane.com/blog/django-test-transactions) by Jean Cochrane
  - [Squashing Django Migrations the Easy Way](https://jacklinke.com/squashing-django-migrations-the-easy-way) by Jack Linke
+ - [Database optimization isn't always obvious](https://kenwhitesell.github.io/2025/01/01/Database-optimization-is-not-alway-obvious.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_266) by Ken Whitesell
 
 ### Caching
 
@@ -102,6 +104,11 @@
 ### Contributing
 
  - [DSF Working Groups](https://github.com/django/dsf-working-groups/blob/main/README.md) by Django Software Foundation
+
+### Debugging
+
+ - [How to auto reload & debug Django and Django Celery workers running in Docker](https://blog.derlin.ch/auto-reload-plus-debug-django-and-django-celery-workers) by Lucy Linder
+ - [Debugging a Containerized Django App in VS Code](https://testdriven.io/blog/django-debugging-vs-code/) by J-O Eriksson
 
 ### Dependency Management
 
@@ -141,6 +148,7 @@
  - [How to create a Django form (using HTMX) in 90 seconds 🐎](https://www.photondesigner.com/articles/submit-async-django-form-with-htmx) by Tom Dekan
  - [Rapid Prototyping with Django, htmx, and Tailwind CSS](https://testdriven.io/blog/django-htmx-tailwind/) by Amal Shaji
  - [How to show a modal in Django + HTMX](https://joshkaramuth.com/blog/django-htmx-modal/) by Josh Karamuth
+ - [Show Django flash messages as toasts with Htmx](https://joshkaramuth.com/blog/django-messages-toast-htmx/) by Josh Karamuth
 
 ### Job Hunting
 
