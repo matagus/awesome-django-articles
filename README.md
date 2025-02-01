@@ -72,6 +72,7 @@
 
 ### Background Tasks
 
+ - [Looking at Django task runners and queues](https://www.loopwerk.io/articles/2025/django-task-queues/) by Kevin Renskers
  - [A Deep Dive into Celery Task Resilience, Beyond Basic Retries](https://blog.gitguardian.com/celery-tasks-retries-errors/) by Mathias Millet
 
 ### Django Admin
@@ -96,6 +97,7 @@
  - [Transaction Types in Django Tests](https://jeancochrane.com/blog/django-test-transactions) by Jean Cochrane
  - [Squashing Django Migrations the Easy Way](https://jacklinke.com/squashing-django-migrations-the-easy-way) by Jack Linke
  - [Database optimization isn't always obvious](https://kenwhitesell.github.io/2025/01/01/Database-optimization-is-not-alway-obvious.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_266) by Ken Whitesell
+ - [Django’s select_for_update with Examples and Tests](https://medium.com/@alexandre.laplante/djangos-select-for-update-with-examples-and-tests-caff09414766) by Alexandre Laplante
 
 ### Caching
 
@@ -222,6 +224,7 @@
  - [Optimizing your Django tests](https://olzhasar.com/posts/optimizing-your-django-tests/) by Olzhas Arystanov
  - [Simplified Django Tests With Pytest and Pytest FactoryBoy](https://schegel.net/posts/simplied-django-tests-with-pytest-and-pytest-factoryboy/) by Rocio Aramberri
  - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/) by Luke Plant
+ - [Avoiding Mocks: Testing LLM Applications with LangChain in Django](https://lincolnloop.com/insights/avoiding-mocks-testing-llm-applications-with-langchain-in-django/) by Marc Gibbons
 
 ### Time Zones
 
@@ -230,6 +233,7 @@
 ### Views
 
  - [Django Views — The Right Way](https://spookylukey.github.io/django-views-the-right-way/) by Luke Plant
+ - [An Introduction to Django Views](https://blog.jetbrains.com/pycharm/2025/01/django-views/) by Evgenia Verbina
 
 ### Websockets
 
