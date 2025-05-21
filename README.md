@@ -30,6 +30,7 @@
  - [Performance / Scaling](#performance--scaling)
  - [Profiling](#profiling)
  - [Request / Response](#request--response)
+ - [Security](#security)
  - [Serverless](#serverless)
  - [Settings](#settings)
  - [Signals](#signals)
@@ -196,6 +197,10 @@
 
  - [Django Streaming HTTP Responses](https://blog.pecar.me/django-streaming-responses) by Anže Pečar
  - [How Does Django's StreamingHttpResponse Work, Exactly?](https://andrewbrookins.com/django/how-does-djangos-streaminghttpresponse-work-exactly/) by Andrew Brookins
+
+### Security
+
+ - [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers) by Ahmad Sadeddin
 
 ### Serverless
 
