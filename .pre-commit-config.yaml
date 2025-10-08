@@ -1,10 +1,10 @@
-default_stages: [commit]
+default_stages: [pre-commit]
 default_language_version:
-  python: python3.12
+  python: python3.14
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.5.0
+    rev: v6.0.0
     hooks:
       - id: end-of-file-fixer
         exclude: ^LICENSE|\.(html|csv|txt|svg|py)$
@@ -13,7 +13,7 @@ repos:
         exclude: \.(html|svg)$
 
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.6
+    rev: v2.4.1
     hooks:
       - id: codespell
         args:
