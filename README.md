@@ -75,6 +75,7 @@
 
  - [Looking at Django task runners and queues](https://www.loopwerk.io/articles/2025/django-task-queues/) by Kevin Renskers
  - [A Deep Dive into Celery Task Resilience, Beyond Basic Retries](https://blog.gitguardian.com/celery-tasks-retries-errors/) by Mathias Millet
+ - [ Using Async Functions in Celery with Django Connection Pooling](https://mrdonbrown.blogspot.com/2025/10/using-async-functions-in-celery-with.html) by Don Brown
 
 ### Django Admin
 
