@@ -76,6 +76,7 @@
  - [Looking at Django task runners and queues](https://www.loopwerk.io/articles/2025/django-task-queues/) by Kevin Renskers
  - [A Deep Dive into Celery Task Resilience, Beyond Basic Retries](https://blog.gitguardian.com/celery-tasks-retries-errors/) by Mathias Millet
  - [ Using Async Functions in Celery with Django Connection Pooling](https://mrdonbrown.blogspot.com/2025/10/using-async-functions-in-celery-with.html) by Don Brown
+ - [Django 6.0 Tasks: a framework without a worker](https://www.loopwerk.io/articles/2026/django-tasks-review/) by Kevin Renskers
 
 ### Django Admin
 
@@ -93,12 +94,14 @@
  - [Database generated columns⁽³⁾: GeoDjango & PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/) by Paolo Melchiorre
  - [Django migrations and your database](https://www.better-simple.com/django/2023/06/03/django-migrations-and-your-database/) by Tim Schilling
  - [Django + Postgres: The Hunt for Long Running Queries](https://paul-gilmartin89.medium.com/django-postgres-hunting-for-long-running-queries-8b141af984ab) by Paul Gilmartin
+ - [Django Time-Based Lookups: A Performance Trap](https://johnnymetz.com/posts/django-time-based-lookups-performance/) by Johnny Metz
+ - [Don’t Let Old Migrations Haunt Your Codebase](https://lincolnloop.com/blog/dont-let-old-migrations-haunt-your-codebase/) by Martin Mahner
  - [Integrating Django with PostgreSQL Materialized Views](https://medium.com/@abdu11a/integrating-django-with-postgresql-materialized-view-2c7c30d44a59) by Abdulla Hashim
  - [Storing and retrieving tree structures in relational databases using Python (Django)](https://medium.com/@spybugg/storing-and-retrieving-tree-structures-in-relational-databases-using-python-django-7480f40c24b) by Deepak Singh
  - [The Fast Way to Test Django transaction.on_commit() Callbacks](https://adamj.eu/tech/2020/05/20/the-fast-way-to-test-django-transaction-on-commit-callbacks/) by Adam Johnson
  - [Transaction Types in Django Tests](https://jeancochrane.com/blog/django-test-transactions) by Jean Cochrane
  - [Squashing Django Migrations the Easy Way](https://jacklinke.com/squashing-django-migrations-the-easy-way) by Jack Linke
- - [Database optimization isn't always obvious](https://kenwhitesell.github.io/2025/01/01/Database-optimization-is-not-alway-obvious.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_266) by Ken Whitesell
+ - [Database optimization isn’t always obvious](https://kenwhitesell.github.io/2025/01/01/Database-optimization-is-not-alway-obvious.html) by Ken Whitesell
  - [Django’s select_for_update with Examples and Tests](https://medium.com/@alexandre.laplante/djangos-select-for-update-with-examples-and-tests-caff09414766) by Alexandre Laplante
 
 ### Caching
@@ -162,6 +165,7 @@
 
  - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask) by Bite Code!
  - [Build an NFT rarity tool with Django](https://justdjango.com/blog/nft-rarity-tool) by Matthew Freire
+ - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) by Julia Evans
 
 ### Logging
 
@@ -193,6 +197,7 @@
 ### Profiling
 
  - [Django: How to profile and improve startup time](https://adamj.eu/tech/2023/03/02/django-profile-and-improve-import-time/) by Adam Johnson
+ - [Django: profile memory usage with Memray](https://adamj.eu/tech/2026/01/29/django-profile-memray/) by Adam Johnson
 
 ### Request / Response
 
@@ -209,6 +214,7 @@
 
 ### Settings
 
+ - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) by Adam Hill
  - [Django Settings In the Cloud](https://engineering.instawork.com/django-settings-in-the-cloud-aa3fc547a2b4) by Oleg Pesok
  - [Making Sense Of Settings](https://www.mattlayman.com/understand-django/settings/) by Matt Layman
 
@@ -230,6 +236,7 @@
  - [Optimizing your Django tests](https://olzhasar.com/posts/optimizing-your-django-tests/) by Olzhas Arystanov
  - [Simplified Django Tests With Pytest and Pytest FactoryBoy](https://schegel.net/posts/simplied-django-tests-with-pytest-and-pytest-factoryboy/) by Rocio Aramberri
  - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/) by Luke Plant
+ - [Testing: exceptions and caches](https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches) by Ned Batchelder  <!-- codespell:ignore ned -->
  - [Avoiding Mocks: Testing LLM Applications with LangChain in Django](https://lincolnloop.com/insights/avoiding-mocks-testing-llm-applications-with-langchain-in-django/) by Marc Gibbons
 
 ### Time Zones
