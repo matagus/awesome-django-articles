@@ -233,6 +233,7 @@
  - [Django Password Hashing: Speed Up Your Tests by 70%](https://dschaefer.substack.com/p/django-password-hashing-speed-up) by Dave Schaefer
  - [Django Test Fixture: setUp, setUpClass and setUpTestData](https://medium.com/an-engineer-a-reader-a-guy/django-test-fixture-setup-setupclass-and-setuptestdata-72b6d944cdef) by Nhat Cuong / Nathan
  - [Django: Parametrized tests for all model admin classes](https://adamj.eu/tech/2023/03/17/django-parameterized-tests-model-admin-classes/) by Adam Johnson
+ - [Django's test runner is underrated](https://www.loopwerk.io/articles/2026/django-tests-underrated/) by Kevin Renskers
  - [Optimizing your Django tests](https://olzhasar.com/posts/optimizing-your-django-tests/) by Olzhas Arystanov
  - [Simplified Django Tests With Pytest and Pytest FactoryBoy](https://schegel.net/posts/simplied-django-tests-with-pytest-and-pytest-factoryboy/) by Rocio Aramberri
  - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/) by Luke Plant
