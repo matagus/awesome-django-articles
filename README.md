@@ -96,6 +96,7 @@
  - [Database generated columns⁽³⁾: GeoDjango & PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/) by Paolo Melchiorre
  - [Django migrations and your database](https://www.better-simple.com/django/2023/06/03/django-migrations-and-your-database/) by Tim Schilling
  - [Django + Postgres: The Hunt for Long Running Queries](https://paul-gilmartin89.medium.com/django-postgres-hunting-for-long-running-queries-8b141af984ab) by Paul Gilmartin
+ - [Django ORM Standalone⁽¹⁾: Querying an existing database](https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/) by Paolo Melchiorre
  - [Django Time-Based Lookups: A Performance Trap](https://johnnymetz.com/posts/django-time-based-lookups-performance/) by Johnny Metz
  - [Don’t Let Old Migrations Haunt Your Codebase](https://lincolnloop.com/blog/dont-let-old-migrations-haunt-your-codebase/) by Martin Mahner
  - [Integrating Django with PostgreSQL Materialized Views](https://medium.com/@abdu11a/integrating-django-with-postgresql-materialized-view-2c7c30d44a59) by Abdulla Hashim
@@ -140,6 +141,7 @@
 ### File Uploads
 
  - [3 steps to upload files properly with Django (and HTMX) 📁](https://www.photondesigner.com/articles/upload-files-properly-django-htmx) by Tom Dekan
+ - [Serving Private Files with Django and S3](https://lincolnloop.com/blog/serving-private-files-with-django-and-s3/) by Richard Terry
 
 ### Frontend Integration
 
@@ -241,6 +243,7 @@
  - [Simplified Django Tests With Pytest and Pytest FactoryBoy](https://schegel.net/posts/simplied-django-tests-with-pytest-and-pytest-factoryboy/) by Rocio Aramberri
  - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/) by Luke Plant
  - [Testing: exceptions and caches](https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches) by Ned Batchelder  <!-- codespell:ignore ned -->
+ - [Using tox to Test a Django App Across Multiple Django Versions](https://www.djangotricks.com/blog/2026/02/using-tox-to-test-a-django-app-across-multiple-django-versions/)
  - [Avoiding Mocks: Testing LLM Applications with LangChain in Django](https://lincolnloop.com/insights/avoiding-mocks-testing-llm-applications-with-langchain-in-django/) by Marc Gibbons
 
 ### Time Zones
