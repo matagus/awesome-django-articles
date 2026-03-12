@@ -253,6 +253,8 @@
 ### Views
 
  - [Django Views — The Right Way](https://spookylukey.github.io/django-views-the-right-way/) by Luke Plant
+ - [The View Pattern](https://spookylukey.github.io/django-views-the-right-way/the-pattern.html) by Luke Plant
+ - [Thin Views](https://spookylukey.github.io/django-views-the-right-way/thin-views.html) by Luke Plant
  - [An Introduction to Django Views](https://blog.jetbrains.com/pycharm/2025/01/django-views/) by Evgenia Verbina
 
 ### Websockets
