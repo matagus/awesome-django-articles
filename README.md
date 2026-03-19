@@ -114,6 +114,10 @@
 
 ### Contributing
 
+ - [Looking to get involved? Start here!](https://forum.djangoproject.com/t/looking-to-get-involved-start-here/18014) by Carlton Gibson
+ - [Getting Started Contributing to Django](https://www.better-simple.com/django/2024/12/25/getting-started-contributing-django/) by Tim Schilling
+ - [A Complete Guide to Contribute to Django for the First Time](https://zachliugis.github.io/django/2016/02/11/a-complete-guide-to-contribute-to-django-for-the-first-time) by Zach Liu
+ - [How to find a ticket on Django's trac](https://smithdc.uk/blog/2023/how_to_find_a_ticket_on_django_trac/) by David Smith
  - [DSF Working Groups](https://github.com/django/dsf-working-groups/blob/main/README.md) by Django Software Foundation
 
 ### Debugging
@@ -269,6 +273,7 @@
 This awesome list is built thanks to:
 
  - [Django News Newsletter](https://django-news.com/?utm_source=awesome-django-articles)
+ - [Django Forum](https://forum.djangoproject.com/new)
  - [Python Weekly Newsletter](https://www.pythonweekly.com/?utm_source=awesome-django-articles)
  - [My Github Feed!](https://github.com)
  - [Lobste.rs](https://lobste.rs/?utm_source=awesome-django-articles)
