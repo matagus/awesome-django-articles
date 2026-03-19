@@ -37,6 +37,7 @@
  - [Single-File Django Projects](#single-file-django-projects)
  - [Testing](#testing)
  - [Time Zones](#time-zones)
+ - [Type Hints](#type-hints)
  - [Views](#views)
  - [Websockets](#websockets)
 
@@ -253,6 +254,10 @@
 ### Time Zones
 
  - [Time Zones in Pytz & Django](http://tommikaikkonen.github.io/timezones/) by Tommi Kaikkonen
+
+### Type Hints
+
+ - [Typing Your Django Project in 2026](https://blog.pecar.me/typing-your-django-project-in-2026/) by Anže Pečar
 
 ### Views
 
