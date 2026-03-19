@@ -278,10 +278,10 @@
 This awesome list is built thanks to:
 
  - [Django News Newsletter](https://django-news.com/?utm_source=awesome-django-articles)
- - [Django Forum](https://forum.djangoproject.com/new)
+ - [Django Forum](https://forum.djangoproject.com/new?utm_source=awesome-django-articles)
  - [Python Weekly Newsletter](https://www.pythonweekly.com/?utm_source=awesome-django-articles)
+ - [My own feed aggregator](https://django-planet.matagus.dev/?utm_source=awesome-django-articles)
  - [My Github Feed!](https://github.com)
  - [Lobste.rs](https://lobste.rs/?utm_source=awesome-django-articles)
- - Several RSS feeds I'm subscribed to.
  - Friends / team mates at work.
  - [The internet (?)](https://duckduckgo.com/?va=g&t=ha&q=django&ia=web)
