@@ -59,6 +59,7 @@
  - [Against service layers in Django](https://www.b-list.org/weblog/2020/mar/16/no-service/) by James Bennett
  - [Clean Architecture in Django](https://medium.com/21buttons-tech/clean-architecture-in-django-d326a4ab86a9) by Jordi Fierro
  - [Django for Startup Founders: A better software architecture for SaaS startups and consumer apps](https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html) by Alex Krupp
+ - [Django: Keeping logic out of templates (and views)](https://thebiglog.com/posts/django-keeping-logic-out-of-templates-and-views) by Shibel K. Mansour
  - [More on service layers in Django](https://www.b-list.org/weblog/2020/mar/23/still-no-service/) by James Bennett
  - [Structuring large/complex Django projects, and using a services layer in Django projects](https://forum.djangoproject.com/t/structuring-large-complex-django-projects-and-using-a-services-layer-in-django-projects/1487/1) by Adam Johnson
  - [The Single Folder Django Project Layout](https://noumenal.es/notes/django/single-folder-layout/) by Carlton Gibson
@@ -151,6 +152,7 @@
 ### Frontend Integration
 
  - [Django Tailwind: How to configure Django and TailwindCSS from scratch in a new project](https://learndjango.com/tutorials/django-tailwind) by Learn Django
+ - [Grouping in Django templates](https://thebiglog.com/posts/grouping-in-django-templates) by Shibel K. Mansour
  - [Setting Up Server Side Rendering with React, Redux, and Django](https://medium.com/meural-product-development/setting-up-server-side-rendering-with-react-redux-and-django-4d6f4d2fd705) by Alexander Richey
  - [Tutorial: Django REST with React (and a sprinkle of testing)](https://www.valentinog.com/blog/drf/) by Valentino Gagliardi
 
@@ -175,6 +177,7 @@
 
  - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask) by Bite Code!
  - [Build an NFT rarity tool with Django](https://justdjango.com/blog/nft-rarity-tool) by Matthew Freire
+ - [How to scaffold Django projects with Cookiecutter](https://thebiglog.com/posts/django-how-to-scaffold-cookiecutter) by Shibel K. Mansour
  - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) by Julia Evans
 
 ### Logging
@@ -198,6 +201,7 @@
  - [How to optimize PostgreSQL queries from Django using pgMustard](https://adamj.eu/tech/2022/06/21/optimize-postgresql-queries-from-django-using-pgmustard/) by Adam Johnson
  - [Solving Performance Problems in the Django ORM](https://hansonkd.medium.com/performance-problems-in-the-django-orm-1f62b3d04785) by Kyle Hanson
  - [Supercharge Your Django App: 7 Sneaky Tricks to Crush Slow Database Queries](https://johnnymetz.com/posts/slow-django-database-queries/) by Johnny Metz
+ - [The Django Speed Handbook: making a Django app faster](https://thebiglog.com/posts/django-faster-speed-tutorial) by Shibel K. Mansour
  - [μDjango (micro Django) 🧬](https://www.paulox.net/2023/10/26/udjango_micro_django/) by Paolo Melchiorre
 - [Using Materialized Views to Implement Efficient Reports in Django](https://www.fusionbox.com/blog/detail/using-materialized-views-to-implement-efficient-reports-in-django/643/) by Gavin Wahl
  - [Lessons from scale: Django](https://medium.com/sanket-saurav/lessons-from-scale-django-124f7b16ae0c) by Sanket Saurav
