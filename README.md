@@ -57,13 +57,16 @@
 ### Architecture
 
  - [Against service layers in Django](https://www.b-list.org/weblog/2020/mar/16/no-service/) by James Bennett
+ - [Business logic: what's the effort to switch between approaches?](https://forum.djangoproject.com/t/business-logic-whats-the-effort-to-switch-between-approaches/44512) at [Django Forum](https://forum.djangoproject.com/)
  - [Clean Architecture in Django](https://medium.com/21buttons-tech/clean-architecture-in-django-d326a4ab86a9) by Jordi Fierro
  - [Django for Startup Founders: A better software architecture for SaaS startups and consumer apps](https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html) by Alex Krupp
  - [Django: Keeping logic out of templates (and views)](https://thebiglog.com/posts/django-keeping-logic-out-of-templates-and-views) by Shibel K. Mansour
+ - [Fat models, thin views, what about tasks?](https://forum.djangoproject.com/t/fat-models-thin-views-what-about-tasks/42707/11) at [Django Forum](https://forum.djangoproject.com/)
  - [More on service layers in Django](https://www.b-list.org/weblog/2020/mar/23/still-no-service/) by James Bennett
- - [Structuring large/complex Django projects, and using a services layer in Django projects](https://forum.djangoproject.com/t/structuring-large-complex-django-projects-and-using-a-services-layer-in-django-projects/1487/1) by Adam Johnson
+ - [Structuring large/complex Django projects, and using a services layer in Django projects](https://forum.djangoproject.com/t/structuring-large-complex-django-projects-and-using-a-services-layer-in-django-projects/1487/8) at [Django Forum](https://forum.djangoproject.com/)
  - [The Single Folder Django Project Layout](https://noumenal.es/notes/django/single-folder-layout/) by Carlton Gibson
  - [Thoughts on Django application architecture approaches](https://bradleykirton.com/2024/01/14/thoughts-on-django-application-architecture-approaches/) by Bradley Kirton
+ - [Who is using Django for REALLY large projects?](https://forum.djangoproject.com/t/who-is-using-django-for-really-large-projects/166) at [Django Forum](https://forum.djangoproject.com/)
 
 ### Authentication & Permissions
 
