@@ -142,6 +142,7 @@
  - [Deploying completely serverless Django with Zappa and Aurora Serverless](https://www.agiliq.com/blog/2019/01/complete-serverless-django/) by Anmol Akhilesh
  - [Smooth Database Changes in Blue-Green Deployments](https://fly.io/django-beats/smooth-database-changes-in-blue-green-deployments/) by Mariusz Felisiak
  - [Stable Django deployments without downtime](https://kuttler.eu/en/post/django-deployments-without-downtime/) by Nicolas Kuttler
+ - [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/) by Rob Hudson
 
 ### Encryption
 
@@ -194,6 +195,7 @@
 ### Multitenancy
 
  - [Multitenancy: juggling customer data in Django](https://www.vinta.com.br/blog/multitenancy-juggling-customer-data-django) by Filipe Ximenes
+ - [Building a Multi-tenant App with Django](https://testdriven.io/blog/django-multi-tenant/) by Nik Tomazic
 
 ### Performance / Scaling
 
