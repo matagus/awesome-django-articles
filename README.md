@@ -107,6 +107,7 @@
  - [Fuzzy String Matching in Django and PostgreSQL](https://www.caktusgroup.com/blog/2026/08/21/fuzzy-string-matching-django-postgresql/) by Tobias McNulty & Gerald Carlton
  - [Integrating Django with PostgreSQL Materialized Views](https://medium.com/@abdu11a/integrating-django-with-postgresql-materialized-view-2c7c30d44a59) by Abdulla Hashim
  - [Optimize Django Query Performance by combining Select Related and Prefetch Related](https://johnnymetz.com/posts/combine-select-related-prefetch-related/) by Johnny Metz
+ - [Nifty Django Feature: Q() Objects](https://www.better-simple.com/django/2026/09/09/nifty-feature-q-objects/) by Tim Schilling
  - [Storing and retrieving tree structures in relational databases using Python (Django)](https://medium.com/@spybugg/storing-and-retrieving-tree-structures-in-relational-databases-using-python-django-7480f40c24b) by Deepak Singh
  - [The Fast Way to Test Django transaction.on_commit() Callbacks](https://adamj.eu/tech/2020/05/20/the-fast-way-to-test-django-transaction-on-commit-callbacks/) by Adam Johnson
  - [Transaction Types in Django Tests](https://jeancochrane.com/blog/django-test-transactions) by Jean Cochrane
