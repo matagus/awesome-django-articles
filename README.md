@@ -103,7 +103,8 @@
  - [Django + Postgres: The Hunt for Long Running Queries](https://paul-gilmartin89.medium.com/django-postgres-hunting-for-long-running-queries-8b141af984ab) by Paul Gilmartin
  - [Django ORM Standalone⁽¹⁾: Querying an existing database](https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/) by Paolo Melchiorre
  - [Django Time-Based Lookups: A Performance Trap](https://johnnymetz.com/posts/django-time-based-lookups-performance/) by Johnny Metz
- - [Don’t Let Old Migrations Haunt Your Codebase](https://lincolnloop.com/blog/dont-let-old-migrations-haunt-your-codebase/) by Martin Mahner
+ - [Don't Let Old Migrations Haunt Your Codebase](https://lincolnloop.com/blog/dont-let-old-migrations-haunt-your-codebase/) by Martin Mahner
+ - [Fuzzy String Matching in Django + PostgreSQL](https://www.caktusgroup.com/blog/2026/08/21/fuzzy-string-matching-django-postgresql/) by Tobias McNulty & Gerald Carlton
  - [Integrating Django with PostgreSQL Materialized Views](https://medium.com/@abdu11a/integrating-django-with-postgresql-materialized-view-2c7c30d44a59) by Abdulla Hashim
  - [Optimize Django Query Performance by combining Select Related and Prefetch Related](https://johnnymetz.com/posts/combine-select-related-prefetch-related/) by Johnny Metz
  - [Storing and retrieving tree structures in relational databases using Python (Django)](https://medium.com/@spybugg/storing-and-retrieving-tree-structures-in-relational-databases-using-python-django-7480f40c24b) by Deepak Singh
